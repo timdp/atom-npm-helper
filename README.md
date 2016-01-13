@@ -1,6 +1,6 @@
 # npm-helper
 
-[![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
+[![apm](https://img.shields.io/apm/v/npm-helper.svg)](https://atom.io/packages/npm-helper) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 Search the npm registry and install packages from Atom.
 
