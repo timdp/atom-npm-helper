@@ -1,0 +1,18 @@
+{
+  "name": "npm-helper",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Search the npm registry and install packages from Atom.",
+  "author": "Tim De Pauw <hi@tmdpw.eu> (https://tmdpw.eu/)",
+  "keywords": [],
+  "repository": "https://github.com/timdp/atom-npm-helper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.1",
+    "change-case": "^2.3.1",
+    "cross-spawn-async": "^2.1.6"
+  }
+}

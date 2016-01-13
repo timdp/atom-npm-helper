@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Search npm Registry'
+      'command': 'npm-helper:search'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'npm helper'
+      'submenu': [
+        {
+          'label': 'Search npm Registry'
+          'command': 'npm-helper:search'
+        }
+      ]
+    ]
+  }
+]

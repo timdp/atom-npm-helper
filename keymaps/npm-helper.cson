@@ -1,0 +1,8 @@
+'.platform-win32 atom-text-editor':
+  'alt-shift-n': 'npm-helper:search'
+
+'.platform-linux atom-text-editor':
+  'alt-shift-n': 'npm-helper:search'
+
+'.platform-darwin atom-text-editor':
+  'ctrl-cmd-n': 'npm-helper:search'
