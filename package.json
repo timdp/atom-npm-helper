@@ -13,6 +13,7 @@
   "dependencies": {
     "atom-space-pen-views": "^2.1.1",
     "change-case": "^2.3.1",
-    "cross-spawn-async": "^2.1.6"
+    "cross-spawn-async": "^2.1.6",
+    "request": "^2.67.0"
   }
 }
