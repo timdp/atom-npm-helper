@@ -1,7 +1,7 @@
 {
   "name": "npm-helper",
   "main": "./lib/main",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Search the npm registry and install packages from Atom.",
   "author": "Tim De Pauw <hi@tmdpw.eu> (https://tmdpw.eu/)",
   "keywords": [],
