@@ -1,8 +1,11 @@
 '.platform-win32 atom-text-editor':
   'alt-shift-n': 'npm-helper:search'
+  'alt-shift-i': 'npm-helper:install'
 
 '.platform-linux atom-text-editor':
   'alt-shift-n': 'npm-helper:search'
+  'alt-shift-i': 'npm-helper:install'
 
 '.platform-darwin atom-text-editor':
   'ctrl-cmd-n': 'npm-helper:search'
+  'ctrl-cmd-i': 'npm-helper:install'

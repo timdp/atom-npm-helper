@@ -12,14 +12,21 @@ $ apm install npm-helper
 
 ## Usage
 
+This extension exposes two keyboard shortcuts.
+
 Hit `alt-shift-n` (`ctrl-cmd-n` on OS X) and enter a query to start searching
-the npm registry. Alternatively, if you have text selected, that text will be
-used as the search query instead.
+the npm registry.
+
+If you already know the exact name of the package to install, use `alt-shift-i`
+(`ctrl-cmd-i` on OS X) to install it directly.
+
+For both commands, if text is selected while invoking it, that text will be used
+as the input instead.
 
 ## Acknowledgment
 
 This extension uses the autocomplete feature from npmjs.com, which is
-gracefully offered by [Constructor.io](https://constructor.io/).
+graciously offered by [Constructor.io](https://constructor.io/).
 
 ## Author
 
