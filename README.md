@@ -16,6 +16,11 @@ Type the package you'd like to install, select it, and hit `alt-shift-n`
 (`ctrl-cmd-n` on OS X) to start searching. Select the package from the search
 results to install it.
 
+## Acknowledgment
+
+This extension uses the autocomplete feature from npmjs.com, which is
+gracefully offered by [Constructor.io](https://constructor.io/).
+
 ## Author
 
 [Tim De Pauw](https://tmdpw.eu/)
