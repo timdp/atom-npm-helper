@@ -12,9 +12,9 @@ $ apm install npm-helper
 
 ## Usage
 
-Type the package you'd like to install, select it, and hit `alt-shift-n`
-(`ctrl-cmd-n` on OS X) to start searching. Select the package from the search
-results to install it.
+Type the first few characters of the name of the package you'd like to install,
+select those characters, and hit `alt-shift-n` (`ctrl-cmd-n` on OS X) to start
+searching. Select the package from the search results to install it.
 
 ## Acknowledgment
 
