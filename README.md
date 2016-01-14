@@ -23,10 +23,13 @@ If you already know the exact name of the package to install, use `alt-shift-i`
 For both commands, if text is selected while invoking it, that text will be used
 as the input instead.
 
-## Acknowledgment
+## Settings
 
-This extension uses the autocomplete feature from npmjs.com, which is
-graciously offered by [Constructor.io](https://constructor.io/).
+### searchType (default: web)
+
+If set to `web`, searches by scraping npmjs.com's search page. If set to
+`autocomplete`, uses npmjs.com's autocomplete feature, which is graciously
+offered by [Constructor.io](https://constructor.io/).
 
 ## Author
 
