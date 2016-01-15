@@ -17,12 +17,13 @@ There are three ways to use this extension:
 
 ### Type-Ahead
 
-In a JavaScript file, start typing `import '` and wait for autocomplete to kick
-in. Select the package to install and you're done.
+In a JavaScript file, start typing `import '` followed by the first few
+characters of the name of the package you'd like to install and wait for
+autocomplete to kick in. Select the package and you're done!
 
 ### Install-and-Import
 
-If you know the exact name of the package you'd like to import, hit
+If you know the exact name of the package you'd like to install, hit
 `alt-shift-i` (`ctrl-cmd-i` on OS X) and enter it. An `import` statement will
 be generated for you.
 
