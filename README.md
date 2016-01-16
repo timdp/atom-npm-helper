@@ -2,6 +2,8 @@
 
 [![apm](https://img.shields.io/apm/v/npm-helper.svg)](https://atom.io/packages/npm-helper) [![Downloads](https://img.shields.io/apm/dm/npm-helper.svg)](https://atom.io/packages/npm-helper) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
+![Demo](https://raw.github.com/timdp/atom-npm-helper/master/demo/960.gif)
+
 Search the npm registry and install packages from Atom. No more cycling between
 browsers, terminals and editors!
 
