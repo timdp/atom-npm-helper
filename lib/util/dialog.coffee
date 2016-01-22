@@ -36,7 +36,8 @@ class Dialog extends View
 
   cancel: ->
     @close()
-    atom.commands.dispatch(atom.views.getView(atom.workspace), 'focus')
+    editor = atom.workspace.getActiveTextEditor()
+    atom.views.getView(editor).focus() if editor
 
   showError: (message = '') ->
     @errorMessage.text(message)
