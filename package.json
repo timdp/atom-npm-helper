@@ -15,7 +15,8 @@
     "change-case": "^2.3.1",
     "consistent-path": "^1.0.3",
     "he": "^0.5.0",
-    "request": "^2.67.0"
+    "request": "^2.67.0",
+    "selector-kit": "^0.1.0"
   },
   "providedServices": {
     "autocomplete.provider": {
