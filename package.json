@@ -17,6 +17,7 @@
     "got": "^6.2.0",
     "he": "^1.1.0",
     "request": "^2.67.0",
+    "sb-exec": "^3.0.1",
     "selector-kit": "^0.1.0"
   },
   "providedServices": {
