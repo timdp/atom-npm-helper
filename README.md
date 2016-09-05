@@ -26,7 +26,7 @@ autocomplete to kick in. Select the package and you're done!
 ### Install-and-Import
 
 If you know the exact name of the package you'd like to install, hit
-`alt-shift-i` (`ctrl-cmd-i` on OS X) and enter it. An `import` statement will
+`alt-shift-i` (`ctrl-cmd-i` on macOS) and enter it. An `import` statement will
 be generated for you.
 
 Alternatively, you can type the name of the package into the editor, select it,
@@ -34,7 +34,7 @@ and then use the keyboard shortcut to install it.
 
 ### Search-and-Import
 
-To search the npm registry, press `alt-shift-n` (`ctrl-cmd-n` on OS X) and enter
+To search the npm registry, press `alt-shift-n` (`ctrl-cmd-n` on macOS) and enter
 a query. Select a package from the list of search results to install it and
 generate an `import` statement.
 
