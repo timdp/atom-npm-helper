@@ -25,9 +25,15 @@
       }
     }
   },
+  "scripts": {
+    "test": "standard"
+  },
   "standard": {
     "globals": [
       "atom"
     ]
+  },
+  "devDependencies": {
+    "standard": "^8.1.0"
   }
 }
