@@ -13,9 +13,9 @@
   "dependencies": {
     "atom-space-pen-views": "^2.1.1",
     "change-case": "^3.0.0",
-    "got": "^6.2.0",
+    "got": "^6.5.0",
     "he": "^1.1.0",
-    "sb-exec": "^3.0.1",
+    "sb-exec": "^3.0.2",
     "selector-kit": "^0.1.0"
   },
   "providedServices": {
