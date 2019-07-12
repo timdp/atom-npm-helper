@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "standard": "^8.2.0"
+    "standard": "^13.0.2"
   }
 }
